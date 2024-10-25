@@ -17,5 +17,5 @@
     "path_safety_checker": "/content/Fooocus/models/safety_checker",
     "path_sam": "/content/Fooocus/models/sam",
     "path_outputs": "/content/Fooocus/outputs"
-    "default_max_image_number": 100
+    "default_max_image_number": 500
 }
